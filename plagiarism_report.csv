@@ -1,0 +1,7 @@
+Document 1,Document 2,Similarity (%)
+doc1.txt,doc2.txt,59.57
+doc1.txt,doc3.txt,7.46
+doc1.txt,plagiarism_checker.py,1.57
+doc2.txt,doc3.txt,7.26
+doc2.txt,plagiarism_checker.py,0.0
+doc3.txt,plagiarism_checker.py,0.0
